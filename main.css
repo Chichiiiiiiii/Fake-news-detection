@@ -23,6 +23,7 @@ body {
   background-color: #E9F6FD;
   margin: 0;
   padding: 0;
+  font-family: 'Inter', sans-serif;
 }
 .container {
   text-align: center;
@@ -38,8 +39,8 @@ body {
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15); /* softer and more natural */
     padding: 2rem;
     width: 100%;
-    max-width: 750px;
-    min-height: 250px; /* replaces fixed height */
+    max-width: 600px;
+    min-height: 200px; /* replaces fixed height */
     margin: 0 auto; /* centers horizontally */
     transition: all 0.3s ease-in-out;
 }
